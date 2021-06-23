@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shahNikhil
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning react native
+- 📫 How to reach me mshahnkihl@gmail.com
